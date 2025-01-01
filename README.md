@@ -22,4 +22,3 @@ The objective of the project is to detect facial expression using image dataset.
 
 - CNN Network
   
-**Accuracy:** 64.00
